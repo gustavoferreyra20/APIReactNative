@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppLoading } from 'expo';
-import { Container, Header, Content, Footer, Text, Button, Grid, Title, Col, Row, Alert} from 'native-base';
+import { Container, Header, Content, Footer, Text, Button, Grid, Title, Col, Row} from 'native-base';
 import * as Font from 'expo-font';
 import { Ionicons } from '@expo/vector-icons';
 
